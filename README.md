@@ -1,3 +1,3 @@
-# myRSS
+# A collection of RSS feeds I think are rad 🤙🏼
 
-a copy of my .opml file 
+An `.opml` file of great RSS feeds, download it if you want! 🙌🏻
