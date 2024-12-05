@@ -285,7 +285,7 @@
         <outline text="DanMall.me Excerpts" title="DanMall.me Excerpts" type="rss" xmlUrl="https://v4.danmall.com/rss/full.xml" htmlUrl="http://danmall.me/"/>
         <outline text="Systems of Harm" title="Systems of Harm" type="rss" xmlUrl="https://feeds.fireside.fm/systems-of-harm/rss" htmlUrl="https://systems-of-harm.fireside.fm"/>
         <outline text="zeroheight blog - designops and design systems best practice" title="zeroheight blog - designops and design systems best practice" type="rss" xmlUrl="https://zeroheight.com/blog/feed/" htmlUrl="https://wordpress-staging.zeroheight.com/blog/"/>
-        <outline text="Stories by Nathan Curtis on Medium" title="Stories by Nathan Curtis on Medium" type="rss" xmlUrl="http://ftr.fivefilters.net/makefulltextfeed.php?url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40nathanacurtis=10" htmlUrl="https://medium.com/feed/@nathanacurtis=10"/>
+        <outline text="Stories by Nathan Curtis on Medium" title="Stories by Nathan Curtis on Medium" type="rss" xmlUrl="https://medium.com/@nathanacurtis/feed" htmlUrl="https://medium.com/@nathanacurtis"/>
         <outline text="Human Side of Dev" title="Human Side of Dev" type="rss" xmlUrl="https://anchor.fm/s/81f880f0/podcast/rss" htmlUrl="https://humansideof.dev"/>
         <outline text="Lindsay Wardell" title="Lindsay Wardell" type="rss" xmlUrl="https://www.lindsaykwardell.com/rss.xml" htmlUrl="https://lindsaykwardell.com/"/>
         <outline text="Smart Interface Design Patterns" title="Smart Interface Design Patterns" type="rss" xmlUrl="https://smart-interface-design-patterns.com/feed.xml" htmlUrl="https://smart-interface-design-patterns.com/"/>
@@ -618,7 +618,7 @@
             <outline text="DanMall.me Excerpts" title="DanMall.me Excerpts" type="rss" xmlUrl="https://v4.danmall.com/rss/full.xml" htmlUrl="http://danmall.me/"/>
             <outline text="Systems of Harm" title="Systems of Harm" type="rss" xmlUrl="https://feeds.fireside.fm/systems-of-harm/rss" htmlUrl="https://systems-of-harm.fireside.fm"/>
             <outline text="zeroheight blog - designops and design systems best practice" title="zeroheight blog - designops and design systems best practice" type="rss" xmlUrl="https://zeroheight.com/blog/feed/" htmlUrl="https://wordpress-staging.zeroheight.com/blog/"/>
-            <outline text="Stories by Nathan Curtis on Medium" title="Stories by Nathan Curtis on Medium" type="rss" xmlUrl="http://ftr.fivefilters.net/makefulltextfeed.php?url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40nathanacurtis=10" htmlUrl="https://medium.com/feed/@nathanacurtis=10"/>
+            <outline text="Stories by Nathan Curtis on Medium" title="Stories by Nathan Curtis on Medium" type="rss" xmlUrl="https://medium.com/@nathanacurtis/feed" htmlUrl="https://medium.com/@nathanacurtis"/>
             <outline text="Human Side of Dev" title="Human Side of Dev" type="rss" xmlUrl="https://anchor.fm/s/81f880f0/podcast/rss" htmlUrl="https://humansideof.dev"/>
             <outline text="Lindsay Wardell" title="Lindsay Wardell" type="rss" xmlUrl="https://www.lindsaykwardell.com/rss.xml" htmlUrl="https://lindsaykwardell.com/"/>
             <outline text="Smart Interface Design Patterns" title="Smart Interface Design Patterns" type="rss" xmlUrl="https://smart-interface-design-patterns.com/feed.xml" htmlUrl="https://smart-interface-design-patterns.com/"/>
