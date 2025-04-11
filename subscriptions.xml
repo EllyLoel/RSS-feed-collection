@@ -158,5 +158,8 @@
   <outline title="Alice Boxhall" type="rss" xmlUrl="https://alice.pages.igalia.com/blog/feed/feed.xml" />
   <outline title="Ellen Lupton" type="rss" xmlUrl="https://ellenlupton.com/rss" />
   <outline title="Heather Buchel" type="rss" xmlUrl="https://heather-buchel.com/feed/feed.xml" />
+  <outline title="Stephanie Eckles (Modern CSS)" type="rss" xmlUrl="https://moderncss.dev/feed/" />
+  <outline title="Stephanie Eckles (Smol CSS)" type="rss" xmlUrl="https://smolcss.dev/feed/" />
+  <outline title="Geoff Graham" type="rss" xmlUrl="https://geoffgraham.me/rss-feeds/" />
 </body>
 </opml>
