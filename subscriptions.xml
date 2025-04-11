@@ -161,5 +161,13 @@
   <outline title="Stephanie Eckles (Modern CSS)" type="rss" xmlUrl="https://moderncss.dev/feed/" />
   <outline title="Stephanie Eckles (Smol CSS)" type="rss" xmlUrl="https://smolcss.dev/feed/" />
   <outline title="Geoff Graham" type="rss" xmlUrl="https://geoffgraham.me/rss-feeds/" />
+  <outline title="Paul Robert Lloyd (PRL)" type="rss" xmlUrl="https://paulrobertlloyd.com/feed.json" />
+  <outline title="Sia Karamalegos" type="rss" xmlUrl="https://sia.codes/feed/feed.xml" />
+  <outline title="Aleksandr Hovhannisyan" type="rss" xmlUrl="https://www.aleksandrhovhannisyan.com/feed.xml" />
+  <outline title="Salma Alam-Naylor (whitep4nth3r)" type="rss" xmlUrl="https://whitep4nth3r.com/feed.xml" />
+  <outline title="Chris Ferdinandi (gomakethings)" type="rss" xmlUrl="https://gomakethings.com/feed/index.xml" />
+  <outline title="Nathan Curtis" type="rss" xmlUrl="https://medium.com/@nathanacurtis/feed" />
+  <outline title="Dan Mall" type="rss" xmlUrl="https://danmall.com/feed.xml" />
+  <outline title="Cassey Lottman" type="rss" xmlUrl="https://cassey.dev/feed/feed.xml" />
 </body>
 </opml>
